@@ -1,0 +1,15 @@
+{
+  "name": "nautiyal/database-daily-backup",
+  "description": "Database Daily Backup And moved to AWS S3",
+  "authors": [
+    {
+      "name": "Ajay Nautiyal",
+      "email": "aju@nautiyal.co.in"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^2.4",
+    "league/flysystem-aws-s3-v3": "^1.0",
+    "google/apiclient": "^2.2"
+  }
+}

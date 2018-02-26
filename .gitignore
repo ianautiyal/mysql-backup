@@ -1,0 +1,10 @@
+*
+!.editorconfig
+!.env-sample
+!.gitignore
+!app.php
+!index.php
+!databasebackup.sh
+!composer.json
+!composer.lock
+!README.md
